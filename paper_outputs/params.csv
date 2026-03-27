@@ -1,0 +1,16 @@
+key,value
+E_mod,210.0
+nu,0.3
+Gc,0.0027
+ell,0.031
+kappa,1e-07
+L,1.0
+N_mesh,64
+h_mesh,0.015625
+u_peak,0.015
+N_ph1,25
+N_ph2,10
+N_ph3,15
+N_steps,50
+u_peak_shear,0.05
+N_steps_shear,80

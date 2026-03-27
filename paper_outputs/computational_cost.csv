@@ -1,0 +1,2 @@
+N_mesh,n_dof,n_steps,t_ref_s,t_transfer_g16_s,overhead_pct
+64,8450,50,18.7,21.5,15.0
